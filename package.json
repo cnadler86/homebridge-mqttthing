@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arachnetech/homebridge-mqttthing.git"
+    "url": "git+https://github.com/cnadler86/homebridge-mqttthing.git"
   },
   "keywords": [
     "homebridge-plugin",
